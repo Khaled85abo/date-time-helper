@@ -1,5 +1,6 @@
 {
-  "name": "date-and-time-helpers",
+  "name": "date-and-time-helpers-khaled",
+  "version": "1.0.2",
   "description": "Some simple time and date helpers",
   "main": "./lib/timeHelper.js",
   "exports": {
@@ -31,7 +32,5 @@
     "@babel/preset-env": "^7.15.8",
     "rimraf": "^2.4.3"
   },
-  "dependencies": {
-    "dayjs": "^1.11.6"
-  }
+  "dependencies": {}
 }
